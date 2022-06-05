@@ -5,3 +5,8 @@ O GitBash √© um terminal por onde √© poss√≠vel executar comandos do reposit√≥rio
 
 ### Exemplos de comandos
 - Git add . (adiciona todos os arquivos para o controle de divers√£o)
+- Git -A (adiciona todos os arquivos para o controle de divers√£o)
+- Git Clone (+ ëcaminhoí - baixa projeto do repositÛrio Gití)
+- Git Commit -m (+ ëcoment·rioí - Efetiva a publicaÁ„o/alteraÁ„o)
+
+
