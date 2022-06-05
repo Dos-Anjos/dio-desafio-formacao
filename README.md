@@ -7,6 +7,8 @@ O GitBash Ã© um terminal por onde Ã© possÃ­vel executar comandos do repositÃ³rio
 - Git add . (adiciona todos os arquivos para o controle de diversÃ£o)
 - Git -A (adiciona todos os arquivos para o controle de diversÃ£o)
 - Git Clone (+ ‘caminho’ - baixa projeto do repositório Git’)
-- Git Commit -m (+ ‘comentário’ - Efetiva a publicação/alteração)
+- Git Commit -m (+ ‘comentário’ - Efetiva a alteração na branch)
+- Git push origin/main (atualiza a publicação no repositório GitHub)
+
 
 
